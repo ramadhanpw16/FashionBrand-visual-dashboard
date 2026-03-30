@@ -46,7 +46,7 @@ This dashboard provides the brand with real-time visibility into:
 - Brokedown days by profitability in a revenue vs sales context
 - Salaries represent the largest expense category, with Marketing as second
 
-> 🔒 Live link unavailable — dashboard contains confidential client data.
+>  Live link unavailable — dashboard contains confidential client data.
 
 ## Author
 Rama — https://www.linkedin.com/in/ramadhan-pw/ | https://www.upwork.com/freelancers/~01c13c30f2f1bf2f45
