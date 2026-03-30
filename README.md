@@ -17,12 +17,12 @@ This dashboard provides the RFA brand with real-time visibility into:
 
 ## Screenshots
 ### Performance Page
-![Performance Page](rfa-visual-dashboard/PerformancePage1.png)
-![Performance Page](rfa-visual-dashboard/PerformancePage2.png)
-![Performance Page](rfa-visual-dashboard/Sanitized_P&L.png)
+![Performance Page 1](PerformancePage1.png)
+![Performance Page 2](PerformancePage2.png)
+![Net Revenue and Expenses](SanitizedP&L.png)
 
 ### Forecast Page
-![Forecast Page](rfa-visual-dashboard/ForecastPage.png)
+![Forecast Page](ForecastPage.png)
 
 ## Data
 - Source: Internal sales and expense records
