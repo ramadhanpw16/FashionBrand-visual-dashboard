@@ -5,11 +5,16 @@
 
 
 ## Overview
-This dashboard provides the RFA brand with real-time visibility into:
-- **Product Performance** — which SKUs drive the most revenue (Tudor, Intersect, Oliver lines)
-- **Expense Breakdown** — spend across Salaries, Marketing, R&D, Admin, and Shipping
-- **Daily Profit Trends** — quantity sold vs. net sales over time to determine which days are most optimal for sales
-- **Collection Rankings** — net sales by collection (Intersect leads, followed by Streetwork)
+This dashboard provides the brand with real-time visibility into:
+### Performance Page:
+- **Product Performance** — which SKUs drive the most revenue.
+- **Expense Breakdown** — spend across Salaries, Marketing, R&D, Admin, and Shipping.
+- **Daily Profit Trends** — quantity sold vs. net sales over time to determine which days are most optimal for sales.
+- **Collection Rankings** — net sales by collection.
+- **Lifetime P&L Chart** - Derived from lifetime data to produce a chart including lifetime revenues, expenses and profit. Equipped with a date controller for a more focused examination on specific date ranges.
+### Forecast Page:
+- **Profit & Expense Forecast** - Linear Forecasting utilizing lifetime data, equipped with actual and forecast data filter alongside date controller for data drill downs.
+- **Product Performance** - Brokedown each product's lifetime performance and conducted linear forecasting. Equipped with product filter alongside a date controller allowing for in-depth drill downs on product performance.
 
 ## Tools Used
 - **Looker Studio** — dashboard design and visualization
