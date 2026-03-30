@@ -1,20 +1,25 @@
 # FashionBrand-visual-dashboard
 > A project i undertook to breakdown, visualize and interpret a fashion brand's data to provide insights and ease business health assessments.
-> A business performance dashboard built in Looker Studio for a fashion retail brand, 
-> tracking product sales, expense breakdown, and daily profitability.
-
 
 ## Overview
 This dashboard provides the brand with real-time visibility into:
 ### Performance Page:
-- **Product Performance** — which SKUs drive the most revenue.
-- **Expense Breakdown** — spend across Salaries, Marketing, R&D, Admin, and Shipping.
-- **Daily Profit Trends** — quantity sold vs. net sales over time to determine which days are most optimal for sales.
-- **Collection Rankings** — net sales by collection.
-- **Lifetime P&L Chart** - Derived from lifetime data to produce a chart including lifetime revenues, expenses and profit. Equipped with a date controller for a more focused examination on specific date ranges.
+#### Controllers/Filters:
+- **Date Controller** for a more focused examination on specific date ranges.
+#### Displayed Data:
+- **Product Performance:** which SKUs drive the most revenue.
+- **Expense Breakdown:** spend across Salaries, Marketing, R&D, Admin, and Shipping.
+- **Daily Profit Trends:** quantity sold vs. net sales over time to determine which days are most optimal for sales.
+- **Collection Rankings:** net sales by collection.
+- **Lifetime P&L Chart:**  Derived from lifetime data to produce a chart including lifetime revenues, expenses and profit.
 ### Forecast Page:
-- **Profit & Expense Forecast** - Linear Forecasting utilizing lifetime data, equipped with actual and forecast data filter alongside date controller for data drill downs.
-- **Product Performance** - Brokedown each product's lifetime performance and conducted linear forecasting. Equipped with product filter alongside a date controller allowing for in-depth drill downs on product performance.
+#### Controllers/Filters:
+- **Type Filter:** To filter between forecast and actual data
+- **Product Filter:** To select which product's performance to be displayed and to be examined.
+- **Date Controller:** To control the date range to be displayed. 
+#### Displayed Data:
+- **Profit & Expense Forecast:** Linear Forecasting alongside lifetime data.
+- **Product Performance:** Brokedown each product's lifetime performance and conducted linear forecasting.
 
 ## Tools Used
 - **Looker Studio** — dashboard design and visualization
@@ -40,6 +45,8 @@ This dashboard provides the brand with real-time visibility into:
 - Identified several top performing products
 - Brokedown days by profitability in a revenue vs sales context
 - Salaries represent the largest expense category, with Marketing as second
+
+> 🔒 Live link unavailable — dashboard contains confidential client data.
 
 ## Author
 Rama — https://www.linkedin.com/in/ramadhan-pw/ | https://www.upwork.com/freelancers/~01c13c30f2f1bf2f45
